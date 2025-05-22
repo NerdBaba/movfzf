@@ -3,6 +3,12 @@
 A terminal tool for searching and streaming movies/series from scloud.ninja using `fzf` with preview and playback with `mpv`.
 
 ---
+## Demo
+
+
+https://github.com/user-attachments/assets/a1bbd4f9-b950-4880-bcd3-9bd5e089fc98
+
+
 
 ## 🚀 Features
 
